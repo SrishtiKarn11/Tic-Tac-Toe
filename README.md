@@ -37,3 +37,18 @@ A classic **Tic-Tac-Toe** game built with **HTML, CSS, and JavaScript**, where t
 ```bash
 git clone https://github.com/srishtikarn11/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
+
+2. Run Locally
+Open the game in your browser:
+start index.html
+
+📁 Project Structure
+bash
+Copy
+Edit
+Tic-Tac-Toe/
+├── index.html       # Main HTML file
+├── style.css        # Styling
+├── script.js        # Game logic
+├── README.md        # Documentation
+
